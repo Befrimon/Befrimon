@@ -30,11 +30,11 @@ Despite the fact that I am just learning, I already have skills in many programm
 ![](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 
 
-## My working IDEs
-![](https://img.shields.io/badge/Intel-Core_i5_6th-0071C5?style=flat&logo=intel&logoColor=white)
+## My working tools
+Laptop: ![](https://img.shields.io/badge/Intel-Core_i5_6th-0071C5?style=flat&logo=intel&logoColor=white)
 ![](https://img.shields.io/badge/Windows-Lenovo-0078D6?style=flat&logo=windows&logoColor=white)
 </br>
-![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
+IDEs: ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
 ![](https://img.shields.io/badge/Rider-000000?style=flat&logo=Rider&logoColor=white)
