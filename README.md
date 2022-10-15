@@ -1,8 +1,10 @@
+![banner](https://user-images.githubusercontent.com/60185455/195989420-0214885c-6fe5-486c-878e-c4dc3ef44d17.png)
+
 <h2 align="center">
   Hi evetyone, I'm Nikita
 </h2>
 
-<h3>
+<h3 align="center">
   I'm Backend developer in the field of game development
 </h3>
 
