@@ -11,10 +11,10 @@ Despite the fact that I am just learning, I already have skills in many programm
 
 ### You can find me in:
 <a href="https://vk.com/poloskanik">
-  <img align="left" src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt=""/>
+  <img align="left" src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=flat&logo=vk&logoColor=white" alt=""/>
 </a>
 <a href="https://codeforces.com/profile/Befrimon">
-  <img align="left" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt=""/>
+  <img align="left" src="https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white" alt=""/>
 </a> <br>
 
 ## Ehat can I do?
