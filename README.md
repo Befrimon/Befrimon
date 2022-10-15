@@ -47,4 +47,4 @@
 ![](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
 </br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Befrimon)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Befrimon)](https://github.com/anuraghazra/github-readme-stats)
