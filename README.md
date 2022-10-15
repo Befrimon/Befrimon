@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/60185455/195989420-0214885c-6fe5-486c-878e-c4dc3ef44d17.png)
+![banner](https://user-images.githubusercontent.com/60185455/195989985-6750a413-06a1-4f94-b966-c6a6e3bc19a5.png)
 
 <h2 align="center">
   Hi evetyone, I'm Nikita
