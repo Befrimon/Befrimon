@@ -15,7 +15,7 @@
 </a>
 <a href="https://codeforces.com/profile/Befrimon">
   <img align="left" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt=""/>
-</a>
+</a> <br>
 
 ## Что я умею?
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -47,4 +47,4 @@
 ![](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
 </br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Befrimon)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Befrimon)](https://github.com/anuraghazra/github-readme-stats)
