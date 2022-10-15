@@ -17,7 +17,7 @@ Despite the fact that I am just learning, I already have skills in many programm
   <img align="left" src="https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white" alt=""/>
 </a> <br>
 
-## Ehat can I do?
+## What can I do?
 ![](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -30,7 +30,7 @@ Despite the fact that I am just learning, I already have skills in many programm
 ![](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 
 
-## Моя рабочая среда
+## My working IDEs
 ![](https://img.shields.io/badge/Intel-Core_i5_6th-0071C5?style=flat&logo=intel&logoColor=white)
 ![](https://img.shields.io/badge/Windows-Lenovo-0078D6?style=flat&logo=windows&logoColor=white)
 </br>
@@ -41,7 +41,7 @@ Despite the fact that I am just learning, I already have skills in many programm
 ![](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white)
 ![](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=notepad%2B%2B&logoColor=black)
 
-## Мои любимые ОС
+## My favourite OS
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 ![](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
 ![](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white)
