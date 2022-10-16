@@ -52,5 +52,7 @@ Now I am learning 3D graphics in Blender.
 ![](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white)
 </br>
 
-[![Most usage languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Befrimon&theme=blue-green)](https://github.com/Befrimon)
 [![Befrimon's github stats](https://github-readme-stats.vercel.app/api?username=Befrimon&theme=blue-green)](https://github.com/Befrimon)
+<br>
+
+[![Most usage languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Befrimon&theme=blue-green)](https://github.com/Befrimon)
