@@ -30,6 +30,9 @@ Despite the fact that I am just learning, I already have skills in many programm
 </br>
 ![](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+<br>
+I have about 3 years of programming experience. The main language is Python, but I also have a good level in C++/C#/Java. I am also studying Kotlin right now and I have experience working with MySQL and Git. 
+Now I am learning 3D graphics in Blender.
 
 
 ## My working tools
@@ -49,4 +52,5 @@ Despite the fact that I am just learning, I already have skills in many programm
 ![](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white)
 </br>
 
-[![Befrimon's github stats](https://github-readme-stats.vercel.app/api?username=Befrimon)](https://github.com/Befrimon)
+[![Befrimon's github stats](https://github-readme-stats.vercel.app/api?username=Befrimon&theme=blue-green)](https://github.com/Befrimon)
+[![Most usage languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Befrimon&theme=blue-green)](https://github.com/Befrimon)
