@@ -36,7 +36,7 @@ Now I am learning 3D graphics in Blender.
 
 
 ## My working tools
-![](https://img.shields.io/badge/Linux-Lenovo-0078D6?style=flat&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Arch-Lenovo-0078D6?style=flat&logo=arch-linux&logoColor=white)
 ![](https://img.shields.io/badge/Intel-Core_i5_6th-0071C5?style=flat&logo=intel&logoColor=white)
 </br>
 ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
