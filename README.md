@@ -44,7 +44,6 @@ Now I am learning 3D graphics in Blender.
 ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
 ![](https://img.shields.io/badge/Rider-000000?style=flat&logo=Rider&logoColor=white)
 ![](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white)
-![](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=vim%2B%2B&logoColor=black)
 
 ## My favourite OS
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
