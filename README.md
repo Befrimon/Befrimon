@@ -1,57 +1,54 @@
 ![banner](https://user-images.githubusercontent.com/60185455/195989985-6750a413-06a1-4f94-b966-c6a6e3bc19a5.png)
 
-<h2 align="center">
-  Hi everyone, I'm Nikita
-</h2>
+# Hi everyone, I'm Nikita
 
-<h3 align="center">
-  I'm Backend developer in the field of game development
-</h3>
+## About me
+I'm student from Saint-Petersburg, Russia. I'm 17 years old and I have been programming for 4 years
 
-My main occupation is game development, but I can also work with algorithms, data analysis and Frontend development. I know how to adapt to any team, so it won't be difficult for me to work with other people.
-Despite the fact that I am just learning, I already have skills in many programming languages.
+## My projects
+- [My dotfiles](https://github.com/Befrimon/dotfiles)
 
-### You can find me in:
-<a href="https://vk.com/poloskanik">
-  <img align="left" src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=flat&logo=vk&logoColor=white" alt=""/>
-</a>
-<a href="https://codeforces.com/profile/Befrimon">
-  <img align="left" src="https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white" alt=""/>
-</a> <br>
-
-## What can I do?
-![](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
-![](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-</br>
-![](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+## What I know
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 <br>
-I have about 3 years of programming experience. The main language is Python, but I also have a good level in C++/C#/Java. I am also studying Kotlin right now and I have experience working with MySQL and Git. 
-Now I am learning 3D graphics in Blender.
-
-
-## My working tools
-![](https://img.shields.io/badge/Arch-Lenovo-0078D6?style=flat&logo=arch-linux&logoColor=white)
-![](https://img.shields.io/badge/Intel-Core_i5_6th-0071C5?style=flat&logo=intel&logoColor=white)
+![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 </br>
-![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
-![](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
-![](https://img.shields.io/badge/Rider-000000?style=flat&logo=Rider&logoColor=white)
-![](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white)
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+## What I want to learn
+![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+## Tools I use for everything
+![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
+
+## Tools I use for GameDev
+![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
 
 ## My favourite OS
-![](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
-![](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-![](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white)
-</br>
+![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
-[![Befrimon's github stats](https://github-readme-stats.vercel.app/api?username=Befrimon&theme=blue-green)](https://github.com/Befrimon)
+## Contact with me
+[![](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/poloskanik)
+[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Befrimon)
 <br>
 
+## My stats
+[![Befrimon's github stats](https://github-readme-stats.vercel.app/api?username=Befrimon&theme=blue-green)](https://github.com/Befrimon)
+<br>
 [![Most usage languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Befrimon&theme=blue-green)](https://github.com/Befrimon)
