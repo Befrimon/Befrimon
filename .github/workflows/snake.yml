@@ -1,4 +1,4 @@
-name: generate animation
+name: snake
 
 on:
   # allows to manually run the job at any time
