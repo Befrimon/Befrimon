@@ -33,7 +33,7 @@
 <!--END_SECTION:waka-->
 
 <div align=center>
-    <img src="https://github-readme-stats.vercel.app/api?username=Befrimon&hide_border=true&show_icons=true&bg_color=0d1117&text_color=fff" alt="Befrimon's github stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Befrimon&hide_border=true&show_icons=true&bg_color=0d1117&text_color=fff">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Befrimon&layout=compact&hide_border=true&show_icons=true&bg_color=0d1117&text_color=fff">
 </p>
 
