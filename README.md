@@ -2,9 +2,11 @@
 *Student at [ITMO University](https://itmo.ru/)*
 
 [![Telegram Follow](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/bigtoad_tavern)
+[![website](https://img.shields.io/badge/Website-2CA5E0?style=flat-squeare&logo=google-chrome&logoColor=white&color=320142)](https://bfn-dev.ru/)
 ![GitHub followers](https://img.shields.io/github/followers/Befrimon?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-2CA5E0?style=flat-squeare&logo=google-chrome&logoColor=white)](https://bfn-dev.ru/)
-![Waka Readme](https://github.com/Befrimon/Befrimon/workflows/Waka%20Readme/badge.svg)
+<br>
+![Waka Readme](https://github.com/Befrimon/Befrimon/workflows/WakaReadme/badge.svg)
+![Waka Readme](https://github.com/Befrimon/Befrimon/workflows/snake/badge.svg)
 
 ## More about me
 ``` JSON
