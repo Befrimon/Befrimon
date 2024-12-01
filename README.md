@@ -34,8 +34,5 @@
   <a href="https://github.com/Befrimon"><img src="https://github-readme-stats.vercel.app/api?username=Befrimon&hide_border=true&show_icons=true&bg_color=0d1117&text_color=fff" alt="Befrimon's github stats"></a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
+
+<img alt="github-snake" src="dist/ocean.gif" />
