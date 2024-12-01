@@ -31,5 +31,5 @@
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <a href="https://github.com/Befrimon"><img src="https://github-readme-stats.vercel.app/api?username=Befrimon&hide_border=true&show_icons=true" alt="Befrimon's github stats"></a>
+  <a href="https://github.com/Befrimon"><img src="https://github-readme-stats.vercel.app/api?username=Befrimon&hide_border=true&show_icons=true&bar_color=0d1117" alt="Befrimon's github stats"></a>
 </p>
