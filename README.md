@@ -31,7 +31,8 @@
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <a href="https://github.com/Befrimon"><img src="https://github-readme-stats.vercel.app/api?username=Befrimon&hide_border=true&show_icons=true&bg_color=0d1117&text_color=fff" alt="Befrimon's github stats"></a>
+    <a href="https://github.com/Befrimon"><img src="https://github-readme-stats.vercel.app/api?username=Befrimon&hide_border=true&show_icons=true&bg_color=0d1117&text_color=fff" alt="Befrimon's github stats"></a>
+    <a href="https://github.com/Befrimon"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Befrimon&layout=pie&hide_border=true&show_icons=true&bg_color=0d1117&text_color=fff"></a>
 </p>
 
 
