@@ -53,15 +53,6 @@ Sunday                   82 commits          █████░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Moscow
-
-🔥 Editors: 
-Chrome                   9 hrs 13 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
