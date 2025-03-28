@@ -30,8 +30,6 @@
 
 ## My stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2046%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -66,7 +64,7 @@ Mathematica              1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/03/2025 00:54:02 UTC
+ Last Updated on 28/03/2025 00:53:59 UTC
 <!--END_SECTION:waka-->
 
 <div align=center>
