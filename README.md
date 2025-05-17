@@ -14,11 +14,11 @@
     "name": "Poloskov Nikita",
     "location": ["Russia", "Saint-Petersburg"],
     "age": 18,
-    "coding": ["C++", "GDScript (with Redot)", "C#", "Python"],
+    "coding": ["C++", "GDScript", "C#", "Python"],
     "languages": ["russian", "english"],
     "tools": {
         "C++": ["Unreal Engine (learning)"],
-        "C#": ["Unity", "Redot (just for fun)"],
+        "C#": ["Unity"],
         "Python": ["Django"],
         "databases": ["MongoDB", "PostgreSQL", "SQLite"]
     },
