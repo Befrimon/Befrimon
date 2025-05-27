@@ -17,13 +17,13 @@
     "coding": ["C++", "GDScript", "C#", "Python"],
     "languages": ["russian", "english"],
     "tools": {
-        "C++": ["Unreal Engine (learning)"],
-        "C#": ["Unity"],
-        "Python": ["Django"],
+        "C++": ["Unreal Engine (learning now)"],
+        "C#": ["Unity", "Godot"],
+        "Python": ["Django", "PyGame", "aiogram"],
         "databases": ["MongoDB", "PostgreSQL", "SQLite"]
     },
     "want_to_learn_soon": ["Rust", "Lua"],
-    "ide": ["NeoVim", "Atom", "JetBrains IDEs"],
+    "ide": ["NeoVim", "JetBrains IDEs"],
     "fav_os": ["CashyOS", "Arch Linux"]
 }
 ```
