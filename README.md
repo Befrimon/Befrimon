@@ -13,18 +13,19 @@
 {
     "name": "Poloskov Nikita",
     "location": ["Russia", "Saint-Petersburg"],
-    "age": 18,
+    "age": 19,
     "coding": ["C++", "GDScript", "C#", "Python"],
     "languages": ["russian", "english"],
     "tools": {
-        "C++": ["Unreal Engine (learning now)"],
-        "C#": ["Unity", "Godot"],
+        "C++": ["SFML", "Unreal Engine (learning now)"],
+        "C#": ["Unity"],
+        "GDScript": ["Godot"]
         "Python": ["Django", "PyGame", "aiogram"],
         "databases": ["MongoDB", "PostgreSQL", "SQLite"]
     },
     "want_to_learn_soon": ["Rust", "Lua"],
-    "ide": ["NeoVim", "JetBrains IDEs"],
-    "fav_os": ["CashyOS", "Arch Linux"]
+    "ide": ["Zed", "JetBrains IDEs"],
+    "fav_os": ["CashyOS", "Debian"]
 }
 ```
 
