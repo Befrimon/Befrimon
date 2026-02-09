@@ -31,8 +31,6 @@
 
 ## My stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2046%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -67,7 +65,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/02/2026 01:14:13 UTC
+ Last Updated on 09/02/2026 01:20:39 UTC
 <!--END_SECTION:waka-->
 
 <div align=center>
